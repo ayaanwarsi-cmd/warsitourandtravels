@@ -1,0 +1,12 @@
+# robots.txt — Warsi Tour & Travels
+# https://warsitourandtravels.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location — tells Google where to find all your pages
+Sitemap: https://warsitourandtravels.com/sitemap.xml
+
+# Block crawling of any future admin or private folders
+Disallow: /admin/
+Disallow: /private/
