@@ -10,3 +10,4 @@ Sitemap: https://warsitourandtravels.vercel.app/sitemap.xml
 # Block crawling of any future admin or private folders
 Disallow: /admin/
 Disallow: /private/
+
