@@ -1,11 +1,11 @@
 # robots.txt — Warsi Tour & Travels
-# https://warsitourandtravels.com
+# https://warsitourandtravels.vercel.app
 
 User-agent: *
 Allow: /
 
 # Sitemap location — tells Google where to find all your pages
-Sitemap: https://warsitourandtravels.com/sitemap.xml
+Sitemap: https://warsitourandtravels.vercel.app/sitemap.xml
 
 # Block crawling of any future admin or private folders
 Disallow: /admin/
